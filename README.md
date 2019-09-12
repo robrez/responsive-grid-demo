@@ -7,3 +7,7 @@ I really like using data tables, but tend to prefer flexable, non-tablular lists
 `npm install`
 
 `npm run start` - serves demo/index.html
+
+## Preview
+
+![Preview](https://raw.githubusercontent.com/robrez/responsive-grid-demo/master/preview.png)
