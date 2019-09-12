@@ -1,0 +1,29 @@
+{
+  "name": "responsive-grid",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "es-dev-server --root-dir ./ --app-index demo/index.html --node-resolve --watch --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robrez/responsive-grid-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robrez/responsive-grid-demo/issues"
+  },
+  "homepage": "https://github.com/robrez/responsive-grid-demo#readme",
+  "devDependencies": {
+    "es-dev-server": "^1.17.1",
+    "@open-wc/prettier-config": "^0.1.10"
+  },
+  "dependencies": {
+    "@github/time-elements": "^3.0.6",
+    "@vaadin/vaadin-grid": "^5.4.8",
+    "lit-element": "^2.2.1",
+    "pwa-helpers": "^0.9.1"
+  }
+}
